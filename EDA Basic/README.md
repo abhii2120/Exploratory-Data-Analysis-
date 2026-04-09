@@ -95,5 +95,5 @@ EDA helped uncover major factors affecting house prices and identify important p
 
 ---
 
-## ⭐ Acknowledgement
+##  Acknowledgement
 This project was completed as part of academic learning to develop practical skills in Exploratory Data Analysis and Data Visualization.
