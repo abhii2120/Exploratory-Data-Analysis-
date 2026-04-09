@@ -95,5 +95,5 @@ Exploratory Data Analysis helped uncover important patterns and insights from th
 
 ---
 
-## ⭐ Acknowledgement
+##  Acknowledgement
 This project was completed as part of academic learning to develop practical skills in Exploratory Data Analysis and Data Visualization.
